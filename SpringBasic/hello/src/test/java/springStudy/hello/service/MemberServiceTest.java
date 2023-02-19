@@ -67,6 +67,6 @@ class MemberServiceTest {
      * AssertThat, AssertThrows, AssertEquals 정리
      *
      * org.junit.Assert.assertThat(기준, 비교 대상)
-     * 
+     *
      */
 }
